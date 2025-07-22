@@ -1,0 +1,89 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+  }
+
+  .mensagem, .formulario {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .mensagem {
+    text-align: left;
+    padding: 0 10px;
+  }
+
+  .titulo-formulario {
+    font-size: 2rem;
+  }
+
+  .descricao-formulario {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 20px;
+  }
+
+  .formulario {
+    max-width: 100%;
+    padding: 25px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 10px;
+  }
+
+  .titulo-formulario {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+
+  .descricao-formulario {
+    font-size: 1.4rem;
+  }
+
+  .formulario {
+    padding: 20px;
+  }
+
+  .campo {
+    padding: 12px;
+    font-size: 1.3rem;
+  }
+
+  .botao {
+    padding: 12px;
+    font-size: 1.5rem;
+  }
+
+  .erro {
+    font-size: 1.1rem;
+  }
+
+  .aviso {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .titulo-formulario {
+    font-size: 1.8rem;
+  }
+
+  .descricao-formulario {
+    font-size: 1.3rem;
+  }
+
+  .campo {
+    padding: 10px;
+    font-size: 1.2rem;
+  }
+
+  .botao {
+    font-size: 1.4rem;
+  }
+}
+
