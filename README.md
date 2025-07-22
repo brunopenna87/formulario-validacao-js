@@ -72,4 +72,5 @@ formulario-validacao/
 ---
 
 Feito com ❤️ por Bruno Penna - brunopenna87
+https://www.linkedin.com/in/bruno-cesare-penna-e-costa-77951a6a/
 
